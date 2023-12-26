@@ -1,5 +1,5 @@
 import pandas as pd
 
-df = pd.read-csv('text.csv')
+df = pd.read_csv('text.csv')
 min = df['value'].min()
 max = df['value'].max()
